@@ -3,7 +3,7 @@
 
 <br>	
 
-<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 80px></picture> About me
+<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 80px></picture> <p width = 60px><strong>About me</strong></p>
 
 <picture> <img align="left" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 <br><br>
